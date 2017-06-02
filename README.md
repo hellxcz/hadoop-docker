@@ -1,3 +1,4 @@
+hadoop single node cluster + zeppelin + nifi
 
 on port 8081 is running zeppelin
 on port 8080 is running nifi
